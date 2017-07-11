@@ -1,0 +1,6 @@
+Tadeus Tutor
+ttutor@example.com
+ttutor
+smtp.example.com
+465
+ssl

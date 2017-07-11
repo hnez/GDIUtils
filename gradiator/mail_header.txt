@@ -1,0 +1,2 @@
+This text is put in front
+of every mail

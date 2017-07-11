@@ -1,0 +1,3 @@
+./gradiator.py read_student_map student_map.csv pretty_student_map
+./gradiator.py read_student_map student_map.csv crawl_grades example print_sum_csv
+./gradiator.py read_student_map student_map.csv crawl_grades example send_mails mail_cfg.txt mail_header.txt "Results for example submission"
